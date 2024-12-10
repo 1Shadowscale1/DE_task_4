@@ -1,0 +1,41 @@
+film_id,title,genre,duration,rating
+1,"Avengers: Endgame","Action",181,8.4
+2,"The Shawshank Redemption","Drama",142,9.3
+3,"The Dark Knight","Action",152,9.0
+4,"Pulp Fiction","Crime",154,8.9
+5,"Inception","Sci-Fi",148,8.8
+6,"The Godfather","Crime",175,9.2
+7,"12 Angry Men","Drama",96,9.0
+8,"Schindler's List","Drama",195,9.0
+9,"Fight Club","Drama",139,8.8
+10,"The Lord of the Rings: The Return of the King","Fantasy",201,9.0
+11,"The Good, the Bad and the Ugly","Western",161,8.9
+12,"The Godfather Part II","Crime",200,9.0
+13,"The Dark Knight Rises","Action",165,8.4
+14,"Parasite","Thriller",132,8.6
+15,"Spirited Away","Animation",125,8.6
+16,"Interstellar","Sci-Fi",169,8.6
+17,"The Silence of the Lambs","Thriller",118,8.6
+18,"Star Wars: Episode V - The Empire Strikes Back","Sci-Fi",124,8.7
+19,"City of God","Crime",130,8.7
+20,"Life Is Beautiful","Comedy",116,8.6
+21,"Django Unchained","Western",165,8.4
+22,"The Green Mile","Drama",189,8.6
+23,"Se7en","Thriller",127,8.6
+24,"Forrest Gump","Drama",142,8.8
+25,"Léon: The Professional","Action",110,8.5
+26,"Goodfellas","Crime",146,8.7
+27,"One Flew Over the Cuckoo's Nest","Drama",133,8.7
+28,"Amelie","Romance",122,8.3
+29,"Back to the Future","Sci-Fi",116,8.5
+30,"The Matrix","Sci-Fi",136,8.7
+31,"Gladiator","Action",155,8.5
+32,"Saving Private Ryan","War",169,8.6
+33,"Pulp Fiction","Crime",154,8.9
+34,"Shutter Island","Thriller",138,8.1
+35,"The Usual Suspects","Thriller",106,8.5
+36,"Rear Window","Thriller",112,8.5
+37,"Casablanca","Romance",102,8.5
+38,"Psycho","Thriller",109,8.5
+39,"Alien","Sci-Fi",117,8.4
+40,"Blade Runner 2049","Sci-Fi",164,8.0
