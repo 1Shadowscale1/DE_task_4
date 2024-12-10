@@ -22,7 +22,7 @@ cursor.execute("""
     """)
 
 # Импорт из part_1.text
-with open('./resources/1-2/_part_1.text', 'r') as f:
+with open('./resources/3/_part_1.text', 'r') as f:
     track_data = []
     current_track = {}
     for line in f:
@@ -49,7 +49,7 @@ with open('./resources/1-2/_part_1.text', 'r') as f:
                        (track['artist'], track['song'], track['duration_ms'], track['year'], track['tempo'], track['genre'], track['explicit'], track['loudness']))
 
 # Импорт из part_2.json
-with open('./resources/1-2/_part_2.json', 'r') as f:
+with open('./resources/3/_part_2.json', 'r') as f:
     data = json.load(f)
     for track in data:
         cursor.execute("INSERT INTO tracks (artist, song, duration_ms, year, tempo, genre, explicit, popularity, danceability) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)",
